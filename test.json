@@ -1,14 +1,86 @@
 [
     {
-        "name": "Juice",
-        "description": "Orange Juice"
+        "name": "Apple Juice",
+        "description": "Juice"
+    },
+    {
+        "name": "Beauclair White",
+        "description": "Wine"
+    },
+    {
+        "name": "Chateau Mont Valjean",
+        "description": "Wine"
+    },
+    {
+        "name": "Count var Ochmann Shiraz",
+        "description": "Wine"
+    },
+    {
+        "name": "Cow's Milk",
+        "description": "Milk"
+    },
+    {
+        "name": "Dijkstra Dry",
+        "description": "Wine"
+    },
+    {
+        "name": "Erveluce",
+        "description": "Wine"
+    },
+    {
+        "name": "Fiarano Wine",
+        "description": "Wine"
+    },
+    {
+        "name": "White Wolf",
+        "description": "Wine"
+    },
+    {
+        "name": "Goat's Milk",
+        "description": "Milk"
+    },
+    {
+        "name": "Homemade Pepper Vodka",
+        "description": "Vodka"
+    },
+    {
+        "name": "Kaedweni Stout",
+        "description": "Beer"
+    },
+    {
+        "name": "Mettina Rose",
+        "description": "Wine"
+    },
+    {
+        "name": "Potion from Tir na Lia",
+        "description": "Potion"
+    },
+    {
+        "name": "Raspberry Juice",
+        "description": "Juice"
+    },
+    {
+        "name": "Redanian Lager",
+        "description": "Beer"
+    },
+    {
+        "name": "Rivian Kriek",
+        "description": "Beer"
+    },
+    {
+        "name": "Sansretour Chardonnay",
+        "description": "Wine"
+    },
+    {
+        "name": "Viziman Champion",
+        "description": "Beer"
     },
     {
         "name": "Water",
-        "description": "Simple Water"
+        "description": "Water"
     },
     {
-        "name": "Beer",
-        "description": "Kaedweni Stout"
+        "name": "Vinegar",
+        "description": "Alchemical Ingredient"
     }
 ]
