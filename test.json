@@ -1,86 +1,107 @@
 [
     {
         "name": "Apple Juice",
-        "description": "Juice"
+        "description": "Juice",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat lacus tortor, sit amet luctus ex accumsan at. Nullam vehicula fermentum ante eu euismod. Nunc eleifend rutrum velit quis commodo. Quisque ac auctor magna. Nunc mauris tortor, sodales et purus sed, ullamcorper semper purus. Duis eu mattis sem. Fusce pharetra tempus ante."
     },
     {
         "name": "Beauclair White",
-        "description": "Wine"
+        "description": "Wine",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat lacus tortor, sit amet luctus ex accumsan at. Nullam vehicula fermentum ante eu euismod. Nunc eleifend rutrum velit quis commodo. Quisque ac auctor magna. Nunc mauris tortor, sodales et purus sed, ullamcorper semper purus. Duis eu mattis sem. Fusce pharetra tempus ante."
     },
     {
         "name": "Chateau Mont Valjean",
-        "description": "Wine"
+        "description": "Wine",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat lacus tortor, sit amet luctus ex accumsan at. Nullam vehicula fermentum ante eu euismod. Nunc eleifend rutrum velit quis commodo. Quisque ac auctor magna. Nunc mauris tortor, sodales et purus sed, ullamcorper semper purus. Duis eu mattis sem. Fusce pharetra tempus ante."
     },
     {
         "name": "Count var Ochmann Shiraz",
-        "description": "Wine"
+        "description": "Wine",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat lacus tortor, sit amet luctus ex accumsan at. Nullam vehicula fermentum ante eu euismod. Nunc eleifend rutrum velit quis commodo. Quisque ac auctor magna. Nunc mauris tortor, sodales et purus sed, ullamcorper semper purus. Duis eu mattis sem. Fusce pharetra tempus ante."
     },
     {
         "name": "Cow's Milk",
-        "description": "Milk"
+        "description": "Milk",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat lacus tortor, sit amet luctus ex accumsan at. Nullam vehicula fermentum ante eu euismod. Nunc eleifend rutrum velit quis commodo. Quisque ac auctor magna. Nunc mauris tortor, sodales et purus sed, ullamcorper semper purus. Duis eu mattis sem. Fusce pharetra tempus ante."
     },
     {
         "name": "Dijkstra Dry",
-        "description": "Wine"
+        "description": "Wine",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat lacus tortor, sit amet luctus ex accumsan at. Nullam vehicula fermentum ante eu euismod. Nunc eleifend rutrum velit quis commodo. Quisque ac auctor magna. Nunc mauris tortor, sodales et purus sed, ullamcorper semper purus. Duis eu mattis sem. Fusce pharetra tempus ante."
     },
     {
         "name": "Erveluce",
-        "description": "Wine"
+        "description": "Wine",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat lacus tortor, sit amet luctus ex accumsan at. Nullam vehicula fermentum ante eu euismod. Nunc eleifend rutrum velit quis commodo. Quisque ac auctor magna. Nunc mauris tortor, sodales et purus sed, ullamcorper semper purus. Duis eu mattis sem. Fusce pharetra tempus ante."
     },
     {
         "name": "Fiarano Wine",
-        "description": "Wine"
+        "description": "Wine",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat lacus tortor, sit amet luctus ex accumsan at. Nullam vehicula fermentum ante eu euismod. Nunc eleifend rutrum velit quis commodo. Quisque ac auctor magna. Nunc mauris tortor, sodales et purus sed, ullamcorper semper purus. Duis eu mattis sem. Fusce pharetra tempus ante."
     },
     {
         "name": "White Wolf",
-        "description": "Wine"
+        "description": "Wine",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat lacus tortor, sit amet luctus ex accumsan at. Nullam vehicula fermentum ante eu euismod. Nunc eleifend rutrum velit quis commodo. Quisque ac auctor magna. Nunc mauris tortor, sodales et purus sed, ullamcorper semper purus. Duis eu mattis sem. Fusce pharetra tempus ante."
     },
     {
         "name": "Goat's Milk",
-        "description": "Milk"
+        "description": "Milk",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat lacus tortor, sit amet luctus ex accumsan at. Nullam vehicula fermentum ante eu euismod. Nunc eleifend rutrum velit quis commodo. Quisque ac auctor magna. Nunc mauris tortor, sodales et purus sed, ullamcorper semper purus. Duis eu mattis sem. Fusce pharetra tempus ante."
     },
     {
         "name": "Homemade Pepper Vodka",
-        "description": "Vodka"
+        "description": "Vodka",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat lacus tortor, sit amet luctus ex accumsan at. Nullam vehicula fermentum ante eu euismod. Nunc eleifend rutrum velit quis commodo. Quisque ac auctor magna. Nunc mauris tortor, sodales et purus sed, ullamcorper semper purus. Duis eu mattis sem. Fusce pharetra tempus ante."
     },
     {
         "name": "Kaedweni Stout",
-        "description": "Beer"
+        "description": "Beer",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat lacus tortor, sit amet luctus ex accumsan at. Nullam vehicula fermentum ante eu euismod. Nunc eleifend rutrum velit quis commodo. Quisque ac auctor magna. Nunc mauris tortor, sodales et purus sed, ullamcorper semper purus. Duis eu mattis sem. Fusce pharetra tempus ante."
     },
     {
         "name": "Mettina Rose",
-        "description": "Wine"
+        "description": "Wine",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat lacus tortor, sit amet luctus ex accumsan at. Nullam vehicula fermentum ante eu euismod. Nunc eleifend rutrum velit quis commodo. Quisque ac auctor magna. Nunc mauris tortor, sodales et purus sed, ullamcorper semper purus. Duis eu mattis sem. Fusce pharetra tempus ante."
     },
     {
         "name": "Potion from Tir na Lia",
-        "description": "Potion"
+        "description": "Potion",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat lacus tortor, sit amet luctus ex accumsan at. Nullam vehicula fermentum ante eu euismod. Nunc eleifend rutrum velit quis commodo. Quisque ac auctor magna. Nunc mauris tortor, sodales et purus sed, ullamcorper semper purus. Duis eu mattis sem. Fusce pharetra tempus ante."
     },
     {
         "name": "Raspberry Juice",
-        "description": "Juice"
+        "description": "Juice",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat lacus tortor, sit amet luctus ex accumsan at. Nullam vehicula fermentum ante eu euismod. Nunc eleifend rutrum velit quis commodo. Quisque ac auctor magna. Nunc mauris tortor, sodales et purus sed, ullamcorper semper purus. Duis eu mattis sem. Fusce pharetra tempus ante."
     },
     {
         "name": "Redanian Lager",
-        "description": "Beer"
+        "description": "Beer",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat lacus tortor, sit amet luctus ex accumsan at. Nullam vehicula fermentum ante eu euismod. Nunc eleifend rutrum velit quis commodo. Quisque ac auctor magna. Nunc mauris tortor, sodales et purus sed, ullamcorper semper purus. Duis eu mattis sem. Fusce pharetra tempus ante."
     },
     {
         "name": "Rivian Kriek",
-        "description": "Beer"
+        "description": "Beer",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat lacus tortor, sit amet luctus ex accumsan at. Nullam vehicula fermentum ante eu euismod. Nunc eleifend rutrum velit quis commodo. Quisque ac auctor magna. Nunc mauris tortor, sodales et purus sed, ullamcorper semper purus. Duis eu mattis sem. Fusce pharetra tempus ante."
     },
     {
         "name": "Sansretour Chardonnay",
-        "description": "Wine"
+        "description": "Wine",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat lacus tortor, sit amet luctus ex accumsan at. Nullam vehicula fermentum ante eu euismod. Nunc eleifend rutrum velit quis commodo. Quisque ac auctor magna. Nunc mauris tortor, sodales et purus sed, ullamcorper semper purus. Duis eu mattis sem. Fusce pharetra tempus ante."
     },
     {
         "name": "Viziman Champion",
-        "description": "Beer"
+        "description": "Beer",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat lacus tortor, sit amet luctus ex accumsan at. Nullam vehicula fermentum ante eu euismod. Nunc eleifend rutrum velit quis commodo. Quisque ac auctor magna. Nunc mauris tortor, sodales et purus sed, ullamcorper semper purus. Duis eu mattis sem. Fusce pharetra tempus ante."
     },
     {
         "name": "Water",
-        "description": "Water"
+        "description": "Water",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat lacus tortor, sit amet luctus ex accumsan at. Nullam vehicula fermentum ante eu euismod. Nunc eleifend rutrum velit quis commodo. Quisque ac auctor magna. Nunc mauris tortor, sodales et purus sed, ullamcorper semper purus. Duis eu mattis sem. Fusce pharetra tempus ante."
     },
     {
         "name": "Vinegar",
-        "description": "Alchemical Ingredient"
+        "description": "Alchemical Ingredient",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat lacus tortor, sit amet luctus ex accumsan at. Nullam vehicula fermentum ante eu euismod. Nunc eleifend rutrum velit quis commodo. Quisque ac auctor magna. Nunc mauris tortor, sodales et purus sed, ullamcorper semper purus. Duis eu mattis sem. Fusce pharetra tempus ante."
     }
 ]
